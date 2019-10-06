@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hot News</string>
+    <string name="list">Stories</string>
+    <string name="table">Videos</string>
+    <string name="favorites">Favorites</string>
+    <string name="logout">Quit</string>
+    <string name="textView_noResult">No Result</string>
+
+    <string name="tabStories">STORIES</string>
+    <string name="tabVideo">VIDEO</string>
+    <string name="tabFavourites">FAVOURITES</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="link"><u>Link</u> :</string>
+
+</resources>
